@@ -1,0 +1,60 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+-------------------------------------------------------
+"""
+
+Task 1
+Values in first:
+1
+3
+5
+7
+9
+Values in second:
+1
+3
+5
+7
+9
+true
+Task 2
+Values in first:
+2
+6
+10
+14
+18
+Values in second:
+2
+6
+10
+14
+18
+true
+Task 3
+What values from enhanced for loop have been changed to:
+2
+6
+10
+14
+18
+
+Seeing if values in original array are the same:
+1
+3
+5
+7
+9
+false
+Task 4
+third[0][0]: 1        first[0]: 1
+third[0][1]: 3        first[1]: 3
+third[0][2]: 5        first[2]: 5
+third[0][3]: 7        first[3]: 7
+third[0][4]: 9        first[4]: 9
+true
+Task 5
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
